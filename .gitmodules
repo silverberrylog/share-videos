@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/silverberrylog/share-videos-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/silverberrylog/share-videos-backend.git
